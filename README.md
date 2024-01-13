@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Marcin Wasylewski</h1>
-<h3 align="center">Python Developer in from Poland in Depilacjapl </h3>
+<h3 align="center">Python Developer from Poland in Depilacjapl </h3>
 
 - 🔭 I’m currently working on **ChessVisionSystem2.0**
 
