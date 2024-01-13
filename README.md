@@ -19,6 +19,7 @@
   </a>
 </p>
 
-##
-###
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=mwasylewski96&show_icons=true&theme=radical"/>
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwasylewski96&layout=donut&theme=radical"/>
+
 **🎓 I am a Mechatronics Engineer from Warsaw University of Technology**<br>
