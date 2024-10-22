@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcin Wasylewski</h1>
-<h3 align="center">Python Developer from Poland in FlowExpert </h3>
+<h3 align="center">Fullstack Python React Developer from Poland in FlowExpert </h3>
 
 - 🔭 Check my freetime project **ChessVisionSystem2.0**
 
